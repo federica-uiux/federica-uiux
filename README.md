@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @federica-uiux
-- 👀 I’m interested in UX and UI design, learning Github and other mostly-devs stuff!
-- 🌱 I’m currently learning Github, AI for design
+<h1>👋**Hi, I’m @federica-uiux** </h1>
+
+<p>👀 I’m interested in UX and UI design, learning Github and other mostly-devs stuff!
+🌱 I’m currently learning Github, AI for design </p>
+
+<img src="https://cdn.memes.com/up/71558571535638926/i/1612078398956.jpg" width="30%"> 
 
 
 - 😄 Pronouns: She/her
