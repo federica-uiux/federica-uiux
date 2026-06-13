@@ -1,11 +1,8 @@
-<h1>👋**Hi, I’m @federica-uiux** </h1>
+<h1>👋**Hi, I’m Federica </h1>
 
-<p>👀 I’m a UX/UI designer interested in AI, videogames, tv-shows and movies. <br>
+<p>👀 I’m a product designer interested in AI, videogames, tv-shows and movies. <br>
 
-I try to build nice, healthy and hassle-free collaboration with the developers I work with. And that's why...
-
-🌱 I’m currently learning Github, to explore the power of Design Tokens </p>
-
+I try to build nice, healthy and hassle-free collaboration with the developers I work with. A
 <img src="https://cdn.memes.com/up/71558571535638926/i/1612078398956.jpg" width="30%"> 
 
 
